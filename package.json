@@ -1,0 +1,22 @@
+{
+  "name": "react-redux-components-starter",
+  "version": "0.0.1",
+  "description": "React Redux Components Starter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinntyneBrown/react-redux-components-starter.git"
+  },
+  "author": "Quinntyne Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinntyneBrown/react-redux-components-starter/issues"
+  },
+  "homepage": "https://github.com/QuinntyneBrown/react-redux-components-starter#readme",
+  "dependencies": {
+    "typings": "^1.3.2"
+  }
+}
