@@ -76,6 +76,10 @@
     <Content Include="packages.config" />
     <Content Include="package.json" />
     <Content Include="tsconfig.json" />
+    <Content Include="webpack.config.js" />
+    <Content Include="src\assets\sass\_breakpoints.scss" />
+    <Content Include="src\assets\sass\_variables.scss" />
+    <Content Include="src\assets\sass\index.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -89,9 +93,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="src\assets\sass\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <TypeScriptCompile Include="src\components\hero\hero.tsx" />
     <TypeScriptCompile Include="src\components\photo-gallery\photo-gallery.tsx" />
